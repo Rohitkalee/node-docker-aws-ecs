@@ -6,7 +6,6 @@ This project demonstrates a **Continuous Integration (CI) and Continuous Deploym
 
 ## 📌 Architecture Overview
 
-![CI/CD Pipeline for Containers]
 <img width="1027" height="552" alt="image" src="https://github.com/user-attachments/assets/6888203e-5532-495a-90a1-dc0fd627b2fc" />
 
 
